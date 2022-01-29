@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ragil1114/teamProfileGen/issues"
   },
-  "homepage": "https://github.com/ragil1114/teamProfileGen#readme"
+  "homepage": "https://github.com/ragil1114/teamProfileGen#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
