@@ -27,6 +27,7 @@ THEN I exit the application, and the HTML is generated
 ### Links
 GitHub URL:
 https://github.com/ragil1114/teamProfileGen.git
+
 Screencastify URL:
 https://watch.screencastify.com/v/25bWYAUH0EibDh8O8XEd
 
